@@ -1,0 +1,16 @@
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.exe
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.deps.json
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.runtimeconfig.json
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.runtimeconfig.dev.json
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.dll
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\ref\learning.dll
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\bin\Debug\net5.0\learning.pdb
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.csprojAssemblyReference.cache
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.AssemblyInfoInputs.cache
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.AssemblyInfo.cs
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.csproj.CoreCompileInputs.cache
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.dll
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\ref\learning.dll
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.pdb
+C:\Users\MATIASGABRIELBERASTE\Documents\personal\Front End Developer\Proyectos\.NET\learning\obj\Debug\net5.0\learning.genruntimeconfig.cache
